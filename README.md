@@ -47,9 +47,9 @@ cmake .. -G "Visual Studio 16 2019" -DCMAKE_BUILD_TYPE=Release -DBUILD_SHARED_LI
 ## 📤 Output
 Compiled libraries (.lib, .dll) will be located in:
 ``` path
- build/x64/Debug
- build/x64/Release
- build/x64/RelWithDebInfo
+ log4cpp/Debug
+ log4cpp/x64/Release
+ log4cpp/x64/RelWithDebInfo
 ```
 <br/>
 
