@@ -1,0 +1,10 @@
+﻿  Building Custom Rule C:/dev/log4cpp/log4cpp/tests/CMakeLists.txt
+  Clock.cpp
+C:\dev\log4cpp\log4cpp\tests\Clock.cpp(8,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'sys/time.h': No such file or directory
+  testbench.cpp
+C:\dev\log4cpp\log4cpp\include\log4cpp/config-win32.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\dev\log4cpp\log4cpp\include\log4cpp/Configurator.hh(21,71): warning C4275: DLL 인터페이스가 아닌 class 'std::runtime_error'이(가) DLL 인터페이스 class 'log4cpp::ConfigureFailure'의 기본으로 사용되었습니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.29.30133\include\stdexcept(101): message : 'std::runtime_error' 선언을 참조하십시오.
+C:\dev\log4cpp\log4cpp\include\log4cpp/Configurator.hh(21): message : 'log4cpp::ConfigureFailure' 선언을 참조하십시오.
+C:\dev\log4cpp\log4cpp\tests\testbench.cpp(30,50): warning C4996: 'fileno': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _fileno. See online help for details.
+  코드를 생성하고 있습니다...

@@ -1,0 +1,12 @@
+1:testCategory
+2:testFixedContextCategory
+3:testNDC
+4:testPattern
+5:testErrorCollision
+6:testPriority
+7:testFilter
+8:testProperties
+9:testConfig
+10:testPropertyConfig
+11:testRollingFileAppender
+12:testDailyRollingFileAppender

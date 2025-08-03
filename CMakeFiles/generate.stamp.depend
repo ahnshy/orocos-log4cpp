@@ -1,0 +1,63 @@
+# CMake generation dependency list for this directory.
+C:/Program Files/CMake/share/cmake-3.31/Modules/CMakeCInformation.cmake
+C:/Program Files/CMake/share/cmake-3.31/Modules/CMakeCXXInformation.cmake
+C:/Program Files/CMake/share/cmake-3.31/Modules/CMakeCommonLanguageInclude.cmake
+C:/Program Files/CMake/share/cmake-3.31/Modules/CMakeGenericSystem.cmake
+C:/Program Files/CMake/share/cmake-3.31/Modules/CMakeInitializeConfigs.cmake
+C:/Program Files/CMake/share/cmake-3.31/Modules/CMakeLanguageInformation.cmake
+C:/Program Files/CMake/share/cmake-3.31/Modules/CMakeRCInformation.cmake
+C:/Program Files/CMake/share/cmake-3.31/Modules/CMakeSystemSpecificInformation.cmake
+C:/Program Files/CMake/share/cmake-3.31/Modules/CMakeSystemSpecificInitialize.cmake
+C:/Program Files/CMake/share/cmake-3.31/Modules/CheckCSourceCompiles.cmake
+C:/Program Files/CMake/share/cmake-3.31/Modules/CheckIncludeFile.cmake
+C:/Program Files/CMake/share/cmake-3.31/Modules/CheckLibraryExists.cmake
+C:/Program Files/CMake/share/cmake-3.31/Modules/Compiler/CMakeCommonCompilerMacros.cmake
+C:/Program Files/CMake/share/cmake-3.31/Modules/Compiler/MSVC-C.cmake
+C:/Program Files/CMake/share/cmake-3.31/Modules/Compiler/MSVC-CXX.cmake
+C:/Program Files/CMake/share/cmake-3.31/Modules/Compiler/MSVC.cmake
+C:/Program Files/CMake/share/cmake-3.31/Modules/FindDoxygen.cmake
+C:/Program Files/CMake/share/cmake-3.31/Modules/FindPackageHandleStandardArgs.cmake
+C:/Program Files/CMake/share/cmake-3.31/Modules/FindPackageMessage.cmake
+C:/Program Files/CMake/share/cmake-3.31/Modules/FindThreads.cmake
+C:/Program Files/CMake/share/cmake-3.31/Modules/Internal/CMakeCLinkerInformation.cmake
+C:/Program Files/CMake/share/cmake-3.31/Modules/Internal/CMakeCXXLinkerInformation.cmake
+C:/Program Files/CMake/share/cmake-3.31/Modules/Internal/CMakeCommonLinkerInformation.cmake
+C:/Program Files/CMake/share/cmake-3.31/Modules/Internal/CheckSourceCompiles.cmake
+C:/Program Files/CMake/share/cmake-3.31/Modules/Platform/Linker/Windows-MSVC-C.cmake
+C:/Program Files/CMake/share/cmake-3.31/Modules/Platform/Linker/Windows-MSVC-CXX.cmake
+C:/Program Files/CMake/share/cmake-3.31/Modules/Platform/Linker/Windows-MSVC.cmake
+C:/Program Files/CMake/share/cmake-3.31/Modules/Platform/Windows-Initialize.cmake
+C:/Program Files/CMake/share/cmake-3.31/Modules/Platform/Windows-MSVC-C.cmake
+C:/Program Files/CMake/share/cmake-3.31/Modules/Platform/Windows-MSVC-CXX.cmake
+C:/Program Files/CMake/share/cmake-3.31/Modules/Platform/Windows-MSVC.cmake
+C:/Program Files/CMake/share/cmake-3.31/Modules/Platform/Windows.cmake
+C:/Program Files/CMake/share/cmake-3.31/Modules/Platform/WindowsPaths.cmake
+C:/Program Files/CMake/share/cmake-3.31/Modules/TestForSSTREAM.cmake
+C:/dev/log4cpp/log4cpp/CMakeFiles/3.31.8/CMakeCCompiler.cmake
+C:/dev/log4cpp/log4cpp/CMakeFiles/3.31.8/CMakeCXXCompiler.cmake
+C:/dev/log4cpp/log4cpp/CMakeFiles/3.31.8/CMakeRCCompiler.cmake
+C:/dev/log4cpp/log4cpp/CMakeFiles/3.31.8/CMakeSystem.cmake
+C:/dev/log4cpp/log4cpp/CMakeLists.txt
+C:/dev/log4cpp/log4cpp/Configure.cmake
+C:/dev/log4cpp/log4cpp/configure-tryouts/ftime.c
+C:/dev/log4cpp/log4cpp/configure-tryouts/ftime.c.in
+C:/dev/log4cpp/log4cpp/configure-tryouts/gettimeofday.c
+C:/dev/log4cpp/log4cpp/configure-tryouts/gettimeofday.c.in
+C:/dev/log4cpp/log4cpp/configure-tryouts/int64_t.c
+C:/dev/log4cpp/log4cpp/configure-tryouts/int64_t.c.in
+C:/dev/log4cpp/log4cpp/configure-tryouts/io_h.c
+C:/dev/log4cpp/log4cpp/configure-tryouts/io_h.c.in
+C:/dev/log4cpp/log4cpp/configure-tryouts/localtime_r.c
+C:/dev/log4cpp/log4cpp/configure-tryouts/localtime_r.c.in
+C:/dev/log4cpp/log4cpp/configure-tryouts/namespaces.cpp
+C:/dev/log4cpp/log4cpp/configure-tryouts/namespaces.cpp.in
+C:/dev/log4cpp/log4cpp/configure-tryouts/snprintf.c
+C:/dev/log4cpp/log4cpp/configure-tryouts/snprintf.c.in
+C:/dev/log4cpp/log4cpp/configure-tryouts/stdint_h.c
+C:/dev/log4cpp/log4cpp/configure-tryouts/stdint_h.c.in
+C:/dev/log4cpp/log4cpp/configure-tryouts/syslog.c
+C:/dev/log4cpp/log4cpp/configure-tryouts/syslog.c.in
+C:/dev/log4cpp/log4cpp/configure-tryouts/unistd_h.c
+C:/dev/log4cpp/log4cpp/configure-tryouts/unistd_h.c.in
+C:/dev/log4cpp/log4cpp/include/config-cmake.h.in
+C:/dev/log4cpp/log4cpp/log4cpp.pc.in

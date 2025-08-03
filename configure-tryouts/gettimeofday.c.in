@@ -1,0 +1,8 @@
+#include <stdlib.h> // for NULL on Linux
+#include <sys/time.h>
+int main()
+{
+   struct timeval tv;
+	(void)gettimeofday(&tv, NULL);
+	return 0;
+}

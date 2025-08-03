@@ -1,0 +1,195 @@
+Start testing: Jul 30 14:01 대한민국 표준시
+----------------------------------------------------------
+Test not available without configuration.  (Missing "-C <config>"?)
+1/12 Testing: testCategory
+1/12 Test: testCategory
+Command: "NOT_AVAILABLE"
+Directory: C:/dev/log4cpp/log4cpp/tests
+"testCategory" start time: 
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"testCategory" end time: Jul 30 14:01 대한민국 표준시
+"testCategory" time elapsed: 00:00:00
+----------------------------------------------------------
+
+Test not available without configuration.  (Missing "-C <config>"?)
+2/12 Testing: testFixedContextCategory
+2/12 Test: testFixedContextCategory
+Command: "NOT_AVAILABLE"
+Directory: C:/dev/log4cpp/log4cpp/tests
+"testFixedContextCategory" start time: 
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"testFixedContextCategory" end time: Jul 30 14:01 대한민국 표준시
+"testFixedContextCategory" time elapsed: 00:00:00
+----------------------------------------------------------
+
+Test not available without configuration.  (Missing "-C <config>"?)
+3/12 Testing: testNDC
+3/12 Test: testNDC
+Command: "NOT_AVAILABLE"
+Directory: C:/dev/log4cpp/log4cpp/tests
+"testNDC" start time: 
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"testNDC" end time: Jul 30 14:01 대한민국 표준시
+"testNDC" time elapsed: 00:00:00
+----------------------------------------------------------
+
+Test not available without configuration.  (Missing "-C <config>"?)
+4/12 Testing: testPattern
+4/12 Test: testPattern
+Command: "NOT_AVAILABLE"
+Directory: C:/dev/log4cpp/log4cpp/tests
+"testPattern" start time: 
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"testPattern" end time: Jul 30 14:01 대한민국 표준시
+"testPattern" time elapsed: 00:00:00
+----------------------------------------------------------
+
+Test not available without configuration.  (Missing "-C <config>"?)
+5/12 Testing: testErrorCollision
+5/12 Test: testErrorCollision
+Command: "NOT_AVAILABLE"
+Directory: C:/dev/log4cpp/log4cpp/tests
+"testErrorCollision" start time: 
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"testErrorCollision" end time: Jul 30 14:01 대한민국 표준시
+"testErrorCollision" time elapsed: 00:00:00
+----------------------------------------------------------
+
+Test not available without configuration.  (Missing "-C <config>"?)
+6/12 Testing: testPriority
+6/12 Test: testPriority
+Command: "NOT_AVAILABLE"
+Directory: C:/dev/log4cpp/log4cpp/tests
+"testPriority" start time: 
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"testPriority" end time: Jul 30 14:01 대한민국 표준시
+"testPriority" time elapsed: 00:00:00
+----------------------------------------------------------
+
+Test not available without configuration.  (Missing "-C <config>"?)
+7/12 Testing: testFilter
+7/12 Test: testFilter
+Command: "NOT_AVAILABLE"
+Directory: C:/dev/log4cpp/log4cpp/tests
+"testFilter" start time: 
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"testFilter" end time: Jul 30 14:01 대한민국 표준시
+"testFilter" time elapsed: 00:00:00
+----------------------------------------------------------
+
+Test not available without configuration.  (Missing "-C <config>"?)
+8/12 Testing: testProperties
+8/12 Test: testProperties
+Command: "NOT_AVAILABLE"
+Directory: C:/dev/log4cpp/log4cpp/tests
+"testProperties" start time: 
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"testProperties" end time: Jul 30 14:01 대한민국 표준시
+"testProperties" time elapsed: 00:00:00
+----------------------------------------------------------
+
+Test not available without configuration.  (Missing "-C <config>"?)
+9/12 Testing: testConfig
+9/12 Test: testConfig
+Command: "NOT_AVAILABLE"
+Directory: C:/dev/log4cpp/log4cpp/tests
+"testConfig" start time: 
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"testConfig" end time: Jul 30 14:01 대한민국 표준시
+"testConfig" time elapsed: 00:00:00
+----------------------------------------------------------
+
+Test not available without configuration.  (Missing "-C <config>"?)
+10/12 Testing: testPropertyConfig
+10/12 Test: testPropertyConfig
+Command: "NOT_AVAILABLE"
+Directory: C:/dev/log4cpp/log4cpp/tests
+"testPropertyConfig" start time: 
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"testPropertyConfig" end time: Jul 30 14:01 대한민국 표준시
+"testPropertyConfig" time elapsed: 00:00:00
+----------------------------------------------------------
+
+Test not available without configuration.  (Missing "-C <config>"?)
+11/12 Testing: testRollingFileAppender
+11/12 Test: testRollingFileAppender
+Command: "NOT_AVAILABLE"
+Directory: C:/dev/log4cpp/log4cpp/tests
+"testRollingFileAppender" start time: 
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"testRollingFileAppender" end time: Jul 30 14:01 대한민국 표준시
+"testRollingFileAppender" time elapsed: 00:00:00
+----------------------------------------------------------
+
+Test not available without configuration.  (Missing "-C <config>"?)
+12/12 Testing: testDailyRollingFileAppender
+12/12 Test: testDailyRollingFileAppender
+Command: "NOT_AVAILABLE"
+Directory: C:/dev/log4cpp/log4cpp/tests
+"testDailyRollingFileAppender" start time: 
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"testDailyRollingFileAppender" end time: Jul 30 14:01 대한민국 표준시
+"testDailyRollingFileAppender" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Jul 30 14:01 대한민국 표준시

@@ -1,0 +1,144 @@
+﻿  Building Custom Rule C:/dev/log4cpp/log4cpp/CMakeLists.txt
+  Appender.cpp
+C:\dev\log4cpp\log4cpp\include\log4cpp/config-win32.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  AppenderSkeleton.cpp
+C:\dev\log4cpp\log4cpp\include\log4cpp/config-win32.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  AppendersFactory.cpp
+C:\dev\log4cpp\log4cpp\include\log4cpp/config-win32.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  BufferingAppender.cpp
+C:\dev\log4cpp\log4cpp\include\log4cpp/config-win32.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  FactoryParams.cpp
+C:\dev\log4cpp\log4cpp\include\log4cpp/config-win32.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  LayoutsFactory.cpp
+C:\dev\log4cpp\log4cpp\include\log4cpp/config-win32.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  LevelEvaluator.cpp
+C:\dev\log4cpp\log4cpp\include\log4cpp/config-win32.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  Localtime.cpp
+C:\dev\log4cpp\log4cpp\include\log4cpp/config-win32.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  PassThroughLayout.cpp
+C:\dev\log4cpp\log4cpp\include\log4cpp/config-win32.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  TriggeringEventEvaluatorFactory.cpp
+C:\dev\log4cpp\log4cpp\include\log4cpp/config-win32.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  LayoutAppender.cpp
+C:\dev\log4cpp\log4cpp\include\log4cpp/config-win32.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  FileAppender.cpp
+C:\dev\log4cpp\log4cpp\include\log4cpp/config-win32.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\dev\log4cpp\log4cpp\src\FileAppender.cpp(37,17): warning C4996: 'open': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _open. See online help for details.
+C:\dev\log4cpp\log4cpp\src\FileAppender.cpp(54,15): warning C4996: 'close': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _close. See online help for details.
+C:\dev\log4cpp\log4cpp\src\FileAppender.cpp(81,12): warning C4267: '인수': 'size_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\dev\log4cpp\log4cpp\src\FileAppender.cpp(81,16): warning C4996: 'write': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _write. See online help for details.
+C:\dev\log4cpp\log4cpp\src\FileAppender.cpp(88,24): warning C4996: 'open': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _open. See online help for details.
+C:\dev\log4cpp\log4cpp\src\FileAppender.cpp(93,23): warning C4996: 'close': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _close. See online help for details.
+  DailyRollingFileAppender.cpp
+C:\dev\log4cpp\log4cpp\include\log4cpp/config-win32.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\dev\log4cpp\log4cpp\src\DailyRollingFileAppender.cpp(76,21): warning C4996: 'close': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _close. See online help for details.
+C:\dev\log4cpp\log4cpp\src\DailyRollingFileAppender.cpp(89,11): warning C4996: 'open': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _open. See online help for details.
+C:\dev\log4cpp\log4cpp\src\DailyRollingFileAppender.cpp(138,7): warning C4996: 'unlink': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _unlink. See online help for details.
+  RollingFileAppender.cpp
+C:\dev\log4cpp\log4cpp\include\log4cpp/config-win32.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\dev\log4cpp\log4cpp\src\RollingFileAppender.cpp(40,29): warning C4244: '초기화 중': 'float'에서 'unsigned short'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\dev\log4cpp\log4cpp\src\RollingFileAppender.cpp(46,49): warning C4244: '=': 'float'에서 'unsigned short'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\dev\log4cpp\log4cpp\src\RollingFileAppender.cpp(62,11): warning C4996: 'close': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _close. See online help for details.
+C:\dev\log4cpp\log4cpp\src\RollingFileAppender.cpp(81,17): warning C4996: 'open': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _open. See online help for details.
+C:\dev\log4cpp\log4cpp\src\RollingFileAppender.cpp(86,26): warning C4996: 'lseek': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _lseek. See online help for details.
+  GenerationalFileAppender.cpp
+C:\dev\log4cpp\log4cpp\include\log4cpp/config-win32.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\dev\log4cpp\log4cpp\src\GenerationalFileAppender.cpp(43,24): warning C4996: 'open': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _open. See online help for details.
+C:\dev\log4cpp\log4cpp\src\GenerationalFileAppender.cpp(49,6): warning C4996: 'close': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _close. See online help for details.
+  FixedContextCategory.cpp
+C:\dev\log4cpp\log4cpp\include\log4cpp/config-win32.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  IdsaAppender.cpp
+C:\dev\log4cpp\log4cpp\include\log4cpp/config-win32.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  OstreamAppender.cpp
+C:\dev\log4cpp\log4cpp\include\log4cpp/config-win32.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  StringQueueAppender.cpp
+C:\dev\log4cpp\log4cpp\include\log4cpp/config-win32.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  SyslogAppender.cpp
+C:\dev\log4cpp\log4cpp\include\log4cpp/config-win32.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  코드를 생성하고 있습니다...
+  컴파일하고 있습니다...
+  RemoteSyslogAppender.cpp
+C:\dev\log4cpp\log4cpp\include\log4cpp/config-win32.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\dev\log4cpp\log4cpp\src\RemoteSyslogAppender.cpp(86,36): warning C4996: 'gethostbyname': Use getaddrinfo() or GetAddrInfoW() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+C:\dev\log4cpp\log4cpp\src\RemoteSyslogAppender.cpp(98,28): warning C4996: 'gethostbyname': Use getaddrinfo() or GetAddrInfoW() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+C:\dev\log4cpp\log4cpp\src\RemoteSyslogAppender.cpp(107,32): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+C:\dev\log4cpp\log4cpp\src\RemoteSyslogAppender.cpp(108,24): warning C4996: 'gethostbyaddr': Use getnameinfo() or GetNameInfoW() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+C:\dev\log4cpp\log4cpp\src\RemoteSyslogAppender.cpp(164,114): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  SimpleLayout.cpp
+C:\dev\log4cpp\log4cpp\include\log4cpp/config-win32.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  BasicLayout.cpp
+C:\dev\log4cpp\log4cpp\include\log4cpp/config-win32.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  PatternLayout.cpp
+C:\dev\log4cpp\log4cpp\include\log4cpp/config-win32.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\dev\log4cpp\log4cpp\include\log4cpp/Configurator.hh(21,71): warning C4275: DLL 인터페이스가 아닌 class 'std::runtime_error'이(가) DLL 인터페이스 class 'log4cpp::ConfigureFailure'의 기본으로 사용되었습니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.29.30133\include\stdexcept(101): message : 'std::runtime_error' 선언을 참조하십시오.
+C:\dev\log4cpp\log4cpp\include\log4cpp/Configurator.hh(21): message : 'log4cpp::ConfigureFailure' 선언을 참조하십시오.
+C:\dev\log4cpp\log4cpp\src\PatternLayout.cpp(400,48): warning C4267: '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Category.cpp
+C:\dev\log4cpp\log4cpp\include\log4cpp/config-win32.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  CategoryStream.cpp
+C:\dev\log4cpp\log4cpp\include\log4cpp/config-win32.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  HierarchyMaintainer.cpp
+C:\dev\log4cpp\log4cpp\include\log4cpp/config-win32.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  Configurator.cpp
+C:\dev\log4cpp\log4cpp\include\log4cpp/config-win32.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\dev\log4cpp\log4cpp\include\log4cpp/Configurator.hh(21,71): warning C4275: DLL 인터페이스가 아닌 class 'std::runtime_error'이(가) DLL 인터페이스 class 'log4cpp::ConfigureFailure'의 기본으로 사용되었습니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.29.30133\include\stdexcept(101): message : 'std::runtime_error' 선언을 참조하십시오.
+C:\dev\log4cpp\log4cpp\include\log4cpp/Configurator.hh(21): message : 'log4cpp::ConfigureFailure' 선언을 참조하십시오.
+  BasicConfigurator.cpp
+C:\dev\log4cpp\log4cpp\include\log4cpp/config-win32.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\dev\log4cpp\log4cpp\src\BasicConfigurator.cpp(29,50): warning C4996: 'dup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _dup. See online help for details.
+  SimpleConfigurator.cpp
+C:\dev\log4cpp\log4cpp\include\log4cpp/config-win32.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\dev\log4cpp\log4cpp\include\log4cpp/Configurator.hh(21,71): warning C4275: DLL 인터페이스가 아닌 class 'std::runtime_error'이(가) DLL 인터페이스 class 'log4cpp::ConfigureFailure'의 기본으로 사용되었습니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.29.30133\include\stdexcept(101): message : 'std::runtime_error' 선언을 참조하십시오.
+C:\dev\log4cpp\log4cpp\include\log4cpp/Configurator.hh(21): message : 'log4cpp::ConfigureFailure' 선언을 참조하십시오.
+C:\dev\log4cpp\log4cpp\src\SimpleConfigurator.cpp(123,71): warning C4996: 'dup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _dup. See online help for details.
+C:\dev\log4cpp\log4cpp\src\SimpleConfigurator.cpp(127,71): warning C4996: 'dup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _dup. See online help for details.
+  PropertyConfigurator.cpp
+C:\dev\log4cpp\log4cpp\include\log4cpp/config-win32.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\dev\log4cpp\log4cpp\include\log4cpp/Configurator.hh(21,71): warning C4275: DLL 인터페이스가 아닌 class 'std::runtime_error'이(가) DLL 인터페이스 class 'log4cpp::ConfigureFailure'의 기본으로 사용되었습니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.29.30133\include\stdexcept(101): message : 'std::runtime_error' 선언을 참조하십시오.
+C:\dev\log4cpp\log4cpp\include\log4cpp/Configurator.hh(21): message : 'log4cpp::ConfigureFailure' 선언을 참조하십시오.
+  PropertyConfiguratorImpl.cpp
+C:\dev\log4cpp\log4cpp\include\log4cpp/config-win32.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\dev\log4cpp\log4cpp\include\log4cpp/Configurator.hh(21,71): warning C4275: DLL 인터페이스가 아닌 class 'std::runtime_error'이(가) DLL 인터페이스 class 'log4cpp::ConfigureFailure'의 기본으로 사용되었습니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.29.30133\include\stdexcept(101): message : 'std::runtime_error' 선언을 참조하십시오.
+C:\dev\log4cpp\log4cpp\include\log4cpp/Configurator.hh(21): message : 'log4cpp::ConfigureFailure' 선언을 참조하십시오.
+  LoggingEvent.cpp
+C:\dev\log4cpp\log4cpp\include\log4cpp/config-win32.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  Priority.cpp
+C:\dev\log4cpp\log4cpp\include\log4cpp/config-win32.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  NDC.cpp
+C:\dev\log4cpp\log4cpp\include\log4cpp/config-win32.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  Filter.cpp
+C:\dev\log4cpp\log4cpp\include\log4cpp/config-win32.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  TimeStamp.cpp
+C:\dev\log4cpp\log4cpp\include\log4cpp/config-win32.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\dev\log4cpp\log4cpp\src\TimeStamp.cpp(38,22): warning C4244: '=': 'time_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  StringUtil.cpp
+C:\dev\log4cpp\log4cpp\include\log4cpp/config-win32.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  Properties.cpp
+C:\dev\log4cpp\log4cpp\include\log4cpp/config-win32.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  Win32DebugAppender.cpp
+C:\dev\log4cpp\log4cpp\include\log4cpp/config-win32.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  코드를 생성하고 있습니다...
+  컴파일하고 있습니다...
+  NTEventLogAppender.cpp
+C:\dev\log4cpp\log4cpp\include\log4cpp/config-win32.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  DllMain.cpp
+  DummyThreads.cpp
+C:\dev\log4cpp\log4cpp\include\log4cpp/config-win32.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  MSThreads.cpp
+C:\dev\log4cpp\log4cpp\include\log4cpp/config-win32.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  OmniThreads.cpp
+C:\dev\log4cpp\log4cpp\include\log4cpp/config-win32.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  PThreads.cpp
+C:\dev\log4cpp\log4cpp\include\log4cpp/config-win32.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  PortabilityImpl.cpp
+C:\dev\log4cpp\log4cpp\include\log4cpp/config-win32.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  AbortAppender.cpp
+C:\dev\log4cpp\log4cpp\include\log4cpp/config-win32.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  코드를 생성하고 있습니다...
+     C:/dev/log4cpp/log4cpp/RelWithDebInfo/orocos-log4cpp.lib 라이브러리 및 C:/dev/log4cpp/log4cpp/RelWithDebInfo/orocos-log4cpp.exp 개체를 생성하고 있습니다.
+  orocos-log4cpp.vcxproj -> C:\dev\log4cpp\log4cpp\RelWithDebInfo\orocos-log4cpp.dll

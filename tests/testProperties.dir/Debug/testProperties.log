@@ -1,0 +1,9 @@
+﻿  Building Custom Rule C:/dev/log4cpp/log4cpp/tests/CMakeLists.txt
+  testProperties.cpp
+C:\dev\log4cpp\log4cpp\include\log4cpp/config-win32.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+LINK : warning LNK4044: '/pthread' 옵션을 인식할 수 없습니다. 무시됩니다.
+testProperties.obj : error LNK2019: "public: __cdecl log4cpp::Properties::Properties(void)" (??0Properties@log4cpp@@QEAA@XZ)main 함수에서 참조되는 확인할 수 없는 외부 기호
+testProperties.obj : error LNK2019: "public: virtual __cdecl log4cpp::Properties::~Properties(void)" (??1Properties@log4cpp@@UEAA@XZ)main 함수에서 참조되는 확인할 수 없는 외부 기호
+testProperties.obj : error LNK2019: "public: virtual void __cdecl log4cpp::Properties::load(class std::basic_istream<char,struct std::char_traits<char> > &)" (?load@Properties@log4cpp@@UEAAXAEAV?$basic_istream@DU?$char_traits@D@std@@@std@@@Z)main 함수에서 참조되는 확인할 수 없는 외부 기호
+testProperties.obj : error LNK2019: "public: virtual void __cdecl log4cpp::Properties::save(class std::basic_ostream<char,struct std::char_traits<char> > &)" (?save@Properties@log4cpp@@UEAAXAEAV?$basic_ostream@DU?$char_traits@D@std@@@std@@@Z)main 함수에서 참조되는 확인할 수 없는 외부 기호
+C:\dev\log4cpp\log4cpp\tests\Debug\testProperties.exe : fatal error LNK1120: 4개의 확인할 수 없는 외부 참조입니다.

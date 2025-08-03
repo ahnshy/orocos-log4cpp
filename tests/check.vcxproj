@@ -1,0 +1,304 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <PreferredToolArchitecture>x64</PreferredToolArchitecture>
+  </PropertyGroup>
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="Debug|x64">
+      <Configuration>Debug</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|x64">
+      <Configuration>Release</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="MinSizeRel|x64">
+      <Configuration>MinSizeRel</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="RelWithDebInfo|x64">
+      <Configuration>RelWithDebInfo</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <ProjectGuid>{68BECFD9-1100-3B58-949B-61F612D486D5}</ProjectGuid>
+    <Keyword>Win32Proj</Keyword>
+    <WindowsTargetPlatformVersion>10.0.26100.0</WindowsTargetPlatformVersion>
+    <Platform>x64</Platform>
+    <ProjectName>check</ProjectName>
+    <VCProjectUpgraderObjectName>NoUpgrade</VCProjectUpgraderObjectName>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'" Label="Configuration">
+    <ConfigurationType>Utility</ConfigurationType>
+    <CharacterSet>MultiByte</CharacterSet>
+    <PlatformToolset>v142</PlatformToolset>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'" Label="Configuration">
+    <ConfigurationType>Utility</ConfigurationType>
+    <CharacterSet>MultiByte</CharacterSet>
+    <PlatformToolset>v142</PlatformToolset>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'" Label="Configuration">
+    <ConfigurationType>Utility</ConfigurationType>
+    <CharacterSet>MultiByte</CharacterSet>
+    <PlatformToolset>v142</PlatformToolset>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'" Label="Configuration">
+    <ConfigurationType>Utility</ConfigurationType>
+    <CharacterSet>MultiByte</CharacterSet>
+    <PlatformToolset>v142</PlatformToolset>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+  <ImportGroup Label="ExtensionSettings">
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <PropertyGroup Label="UserMacros" />
+  <PropertyGroup>
+    <_ProjectFileVersion>10.0.20506.1</_ProjectFileVersion>
+    <IntDir Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">$(Platform)\$(Configuration)\$(ProjectName)\</IntDir>
+    <IntDir Condition="'$(Configuration)|$(Platform)'=='Release|x64'">$(Platform)\$(Configuration)\$(ProjectName)\</IntDir>
+    <IntDir Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">$(Platform)\$(Configuration)\$(ProjectName)\</IntDir>
+    <IntDir Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">$(Platform)\$(Configuration)\$(ProjectName)\</IntDir>
+  </PropertyGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <Midl>
+      <AdditionalIncludeDirectories>C:\dev\log4cpp\log4cpp\include;C:\dev\log4cpp\log4cpp\.;C:\dev\log4cpp\log4cpp\src;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <OutputDirectory>$(ProjectDir)/$(IntDir)</OutputDirectory>
+      <HeaderFileName>%(Filename).h</HeaderFileName>
+      <TypeLibraryName>%(Filename).tlb</TypeLibraryName>
+      <InterfaceIdentifierFileName>%(Filename)_i.c</InterfaceIdentifierFileName>
+      <ProxyFileName>%(Filename)_p.c</ProxyFileName>
+    </Midl>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <Midl>
+      <AdditionalIncludeDirectories>C:\dev\log4cpp\log4cpp\include;C:\dev\log4cpp\log4cpp\.;C:\dev\log4cpp\log4cpp\src;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <OutputDirectory>$(ProjectDir)/$(IntDir)</OutputDirectory>
+      <HeaderFileName>%(Filename).h</HeaderFileName>
+      <TypeLibraryName>%(Filename).tlb</TypeLibraryName>
+      <InterfaceIdentifierFileName>%(Filename)_i.c</InterfaceIdentifierFileName>
+      <ProxyFileName>%(Filename)_p.c</ProxyFileName>
+    </Midl>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">
+    <Midl>
+      <AdditionalIncludeDirectories>C:\dev\log4cpp\log4cpp\include;C:\dev\log4cpp\log4cpp\.;C:\dev\log4cpp\log4cpp\src;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <OutputDirectory>$(ProjectDir)/$(IntDir)</OutputDirectory>
+      <HeaderFileName>%(Filename).h</HeaderFileName>
+      <TypeLibraryName>%(Filename).tlb</TypeLibraryName>
+      <InterfaceIdentifierFileName>%(Filename)_i.c</InterfaceIdentifierFileName>
+      <ProxyFileName>%(Filename)_p.c</ProxyFileName>
+    </Midl>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">
+    <Midl>
+      <AdditionalIncludeDirectories>C:\dev\log4cpp\log4cpp\include;C:\dev\log4cpp\log4cpp\.;C:\dev\log4cpp\log4cpp\src;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <OutputDirectory>$(ProjectDir)/$(IntDir)</OutputDirectory>
+      <HeaderFileName>%(Filename).h</HeaderFileName>
+      <TypeLibraryName>%(Filename).tlb</TypeLibraryName>
+      <InterfaceIdentifierFileName>%(Filename)_i.c</InterfaceIdentifierFileName>
+      <ProxyFileName>%(Filename)_p.c</ProxyFileName>
+    </Midl>
+  </ItemDefinitionGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\dev\log4cpp\log4cpp\CMakeFiles\916902f31534107092ed957ed03ec8a7\check.rule">
+      <Message Condition="'$(Configuration)|$(Platform)'=='Debug|x64'"></Message>
+      <Command Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">setlocal
+cd C:\dev\log4cpp\log4cpp\tests
+if %errorlevel% neq 0 goto :cmEnd
+C:
+if %errorlevel% neq 0 goto :cmEnd
+ctest -V
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd</Command>
+      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">C:\dev\log4cpp\log4cpp\tests\Debug\testCategory.exe;C:\dev\log4cpp\log4cpp\tests\Debug\testFixedContextCategory.exe;C:\dev\log4cpp\log4cpp\tests\Debug\testNDC.exe;C:\dev\log4cpp\log4cpp\tests\Debug\testPattern.exe;C:\dev\log4cpp\log4cpp\tests\Debug\testErrorCollision.exe;C:\dev\log4cpp\log4cpp\tests\Debug\testPriority.exe;C:\dev\log4cpp\log4cpp\tests\Debug\testFilter.exe;C:\dev\log4cpp\log4cpp\tests\Debug\testProperties.exe;C:\dev\log4cpp\log4cpp\tests\Debug\testConfig.exe;C:\dev\log4cpp\log4cpp\tests\Debug\testPropertyConfig.exe;C:\dev\log4cpp\log4cpp\tests\Debug\testRollingFileAppender.exe;C:\dev\log4cpp\log4cpp\tests\Debug\testDailyRollingFileAppender.exe;%(AdditionalInputs)</AdditionalInputs>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">C:\dev\log4cpp\log4cpp\tests\CMakeFiles\check</Outputs>
+      <LinkObjects Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">false</LinkObjects>
+      <VerifyInputsAndOutputsExist Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">false</VerifyInputsAndOutputsExist>
+      <Message Condition="'$(Configuration)|$(Platform)'=='Release|x64'"></Message>
+      <Command Condition="'$(Configuration)|$(Platform)'=='Release|x64'">setlocal
+cd C:\dev\log4cpp\log4cpp\tests
+if %errorlevel% neq 0 goto :cmEnd
+C:
+if %errorlevel% neq 0 goto :cmEnd
+ctest -V
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd</Command>
+      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='Release|x64'">C:\dev\log4cpp\log4cpp\tests\Release\testCategory.exe;C:\dev\log4cpp\log4cpp\tests\Release\testFixedContextCategory.exe;C:\dev\log4cpp\log4cpp\tests\Release\testNDC.exe;C:\dev\log4cpp\log4cpp\tests\Release\testPattern.exe;C:\dev\log4cpp\log4cpp\tests\Release\testErrorCollision.exe;C:\dev\log4cpp\log4cpp\tests\Release\testPriority.exe;C:\dev\log4cpp\log4cpp\tests\Release\testFilter.exe;C:\dev\log4cpp\log4cpp\tests\Release\testProperties.exe;C:\dev\log4cpp\log4cpp\tests\Release\testConfig.exe;C:\dev\log4cpp\log4cpp\tests\Release\testPropertyConfig.exe;C:\dev\log4cpp\log4cpp\tests\Release\testRollingFileAppender.exe;C:\dev\log4cpp\log4cpp\tests\Release\testDailyRollingFileAppender.exe;%(AdditionalInputs)</AdditionalInputs>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='Release|x64'">C:\dev\log4cpp\log4cpp\tests\CMakeFiles\check</Outputs>
+      <LinkObjects Condition="'$(Configuration)|$(Platform)'=='Release|x64'">false</LinkObjects>
+      <VerifyInputsAndOutputsExist Condition="'$(Configuration)|$(Platform)'=='Release|x64'">false</VerifyInputsAndOutputsExist>
+      <Message Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'"></Message>
+      <Command Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">setlocal
+cd C:\dev\log4cpp\log4cpp\tests
+if %errorlevel% neq 0 goto :cmEnd
+C:
+if %errorlevel% neq 0 goto :cmEnd
+ctest -V
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd</Command>
+      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">C:\dev\log4cpp\log4cpp\tests\MinSizeRel\testCategory.exe;C:\dev\log4cpp\log4cpp\tests\MinSizeRel\testFixedContextCategory.exe;C:\dev\log4cpp\log4cpp\tests\MinSizeRel\testNDC.exe;C:\dev\log4cpp\log4cpp\tests\MinSizeRel\testPattern.exe;C:\dev\log4cpp\log4cpp\tests\MinSizeRel\testErrorCollision.exe;C:\dev\log4cpp\log4cpp\tests\MinSizeRel\testPriority.exe;C:\dev\log4cpp\log4cpp\tests\MinSizeRel\testFilter.exe;C:\dev\log4cpp\log4cpp\tests\MinSizeRel\testProperties.exe;C:\dev\log4cpp\log4cpp\tests\MinSizeRel\testConfig.exe;C:\dev\log4cpp\log4cpp\tests\MinSizeRel\testPropertyConfig.exe;C:\dev\log4cpp\log4cpp\tests\MinSizeRel\testRollingFileAppender.exe;C:\dev\log4cpp\log4cpp\tests\MinSizeRel\testDailyRollingFileAppender.exe;%(AdditionalInputs)</AdditionalInputs>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">C:\dev\log4cpp\log4cpp\tests\CMakeFiles\check</Outputs>
+      <LinkObjects Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">false</LinkObjects>
+      <VerifyInputsAndOutputsExist Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">false</VerifyInputsAndOutputsExist>
+      <Message Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'"></Message>
+      <Command Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">setlocal
+cd C:\dev\log4cpp\log4cpp\tests
+if %errorlevel% neq 0 goto :cmEnd
+C:
+if %errorlevel% neq 0 goto :cmEnd
+ctest -V
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd</Command>
+      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">C:\dev\log4cpp\log4cpp\tests\RelWithDebInfo\testCategory.exe;C:\dev\log4cpp\log4cpp\tests\RelWithDebInfo\testFixedContextCategory.exe;C:\dev\log4cpp\log4cpp\tests\RelWithDebInfo\testNDC.exe;C:\dev\log4cpp\log4cpp\tests\RelWithDebInfo\testPattern.exe;C:\dev\log4cpp\log4cpp\tests\RelWithDebInfo\testErrorCollision.exe;C:\dev\log4cpp\log4cpp\tests\RelWithDebInfo\testPriority.exe;C:\dev\log4cpp\log4cpp\tests\RelWithDebInfo\testFilter.exe;C:\dev\log4cpp\log4cpp\tests\RelWithDebInfo\testProperties.exe;C:\dev\log4cpp\log4cpp\tests\RelWithDebInfo\testConfig.exe;C:\dev\log4cpp\log4cpp\tests\RelWithDebInfo\testPropertyConfig.exe;C:\dev\log4cpp\log4cpp\tests\RelWithDebInfo\testRollingFileAppender.exe;C:\dev\log4cpp\log4cpp\tests\RelWithDebInfo\testDailyRollingFileAppender.exe;%(AdditionalInputs)</AdditionalInputs>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">C:\dev\log4cpp\log4cpp\tests\CMakeFiles\check</Outputs>
+      <LinkObjects Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">false</LinkObjects>
+      <VerifyInputsAndOutputsExist Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">false</VerifyInputsAndOutputsExist>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\dev\log4cpp\log4cpp\tests\CMakeLists.txt">
+      <UseUtf8Encoding>Always</UseUtf8Encoding>
+      <Message Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">Building Custom Rule C:/dev/log4cpp/log4cpp/tests/CMakeLists.txt</Message>
+      <Command Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/dev/log4cpp/log4cpp -BC:/dev/log4cpp/log4cpp --check-stamp-file C:/dev/log4cpp/log4cpp/tests/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd</Command>
+      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">C:\Program Files\CMake\share\cmake-3.31\Modules\CTest.cmake;C:\Program Files\CMake\share\cmake-3.31\Modules\CTestTargets.cmake;C:\Program Files\CMake\share\cmake-3.31\Modules\CTestUseLaunchers.cmake;C:\Program Files\CMake\share\cmake-3.31\Modules\DartConfiguration.tcl.in;C:\dev\log4cpp\log4cpp\tests\log4cpp.init;C:\dev\log4cpp\log4cpp\tests\log4cpp.properties;C:\dev\log4cpp\log4cpp\tests\testConfig.log4cpp.dailyroll.properties;C:\dev\log4cpp\log4cpp\tests\testConfig.log4cpp.properties;C:\dev\log4cpp\log4cpp\tests\testProperties.properties;%(AdditionalInputs)</AdditionalInputs>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">C:\dev\log4cpp\log4cpp\tests\CMakeFiles\generate.stamp</Outputs>
+      <LinkObjects Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">false</LinkObjects>
+      <Message Condition="'$(Configuration)|$(Platform)'=='Release|x64'">Building Custom Rule C:/dev/log4cpp/log4cpp/tests/CMakeLists.txt</Message>
+      <Command Condition="'$(Configuration)|$(Platform)'=='Release|x64'">setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/dev/log4cpp/log4cpp -BC:/dev/log4cpp/log4cpp --check-stamp-file C:/dev/log4cpp/log4cpp/tests/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd</Command>
+      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='Release|x64'">C:\Program Files\CMake\share\cmake-3.31\Modules\CTest.cmake;C:\Program Files\CMake\share\cmake-3.31\Modules\CTestTargets.cmake;C:\Program Files\CMake\share\cmake-3.31\Modules\CTestUseLaunchers.cmake;C:\Program Files\CMake\share\cmake-3.31\Modules\DartConfiguration.tcl.in;C:\dev\log4cpp\log4cpp\tests\log4cpp.init;C:\dev\log4cpp\log4cpp\tests\log4cpp.properties;C:\dev\log4cpp\log4cpp\tests\testConfig.log4cpp.dailyroll.properties;C:\dev\log4cpp\log4cpp\tests\testConfig.log4cpp.properties;C:\dev\log4cpp\log4cpp\tests\testProperties.properties;%(AdditionalInputs)</AdditionalInputs>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='Release|x64'">C:\dev\log4cpp\log4cpp\tests\CMakeFiles\generate.stamp</Outputs>
+      <LinkObjects Condition="'$(Configuration)|$(Platform)'=='Release|x64'">false</LinkObjects>
+      <Message Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">Building Custom Rule C:/dev/log4cpp/log4cpp/tests/CMakeLists.txt</Message>
+      <Command Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/dev/log4cpp/log4cpp -BC:/dev/log4cpp/log4cpp --check-stamp-file C:/dev/log4cpp/log4cpp/tests/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd</Command>
+      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">C:\Program Files\CMake\share\cmake-3.31\Modules\CTest.cmake;C:\Program Files\CMake\share\cmake-3.31\Modules\CTestTargets.cmake;C:\Program Files\CMake\share\cmake-3.31\Modules\CTestUseLaunchers.cmake;C:\Program Files\CMake\share\cmake-3.31\Modules\DartConfiguration.tcl.in;C:\dev\log4cpp\log4cpp\tests\log4cpp.init;C:\dev\log4cpp\log4cpp\tests\log4cpp.properties;C:\dev\log4cpp\log4cpp\tests\testConfig.log4cpp.dailyroll.properties;C:\dev\log4cpp\log4cpp\tests\testConfig.log4cpp.properties;C:\dev\log4cpp\log4cpp\tests\testProperties.properties;%(AdditionalInputs)</AdditionalInputs>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">C:\dev\log4cpp\log4cpp\tests\CMakeFiles\generate.stamp</Outputs>
+      <LinkObjects Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">false</LinkObjects>
+      <Message Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">Building Custom Rule C:/dev/log4cpp/log4cpp/tests/CMakeLists.txt</Message>
+      <Command Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/dev/log4cpp/log4cpp -BC:/dev/log4cpp/log4cpp --check-stamp-file C:/dev/log4cpp/log4cpp/tests/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd</Command>
+      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">C:\Program Files\CMake\share\cmake-3.31\Modules\CTest.cmake;C:\Program Files\CMake\share\cmake-3.31\Modules\CTestTargets.cmake;C:\Program Files\CMake\share\cmake-3.31\Modules\CTestUseLaunchers.cmake;C:\Program Files\CMake\share\cmake-3.31\Modules\DartConfiguration.tcl.in;C:\dev\log4cpp\log4cpp\tests\log4cpp.init;C:\dev\log4cpp\log4cpp\tests\log4cpp.properties;C:\dev\log4cpp\log4cpp\tests\testConfig.log4cpp.dailyroll.properties;C:\dev\log4cpp\log4cpp\tests\testConfig.log4cpp.properties;C:\dev\log4cpp\log4cpp\tests\testProperties.properties;%(AdditionalInputs)</AdditionalInputs>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">C:\dev\log4cpp\log4cpp\tests\CMakeFiles\generate.stamp</Outputs>
+      <LinkObjects Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">false</LinkObjects>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\dev\log4cpp\log4cpp\tests\CMakeFiles\check">
+    </None>
+  </ItemGroup>
+  <ItemGroup />
+  <ItemGroup>
+    <ProjectReference Include="C:\dev\log4cpp\log4cpp\ZERO_CHECK.vcxproj">
+      <Project>{7726AEEE-0886-33B0-A9E4-40CCD87CA8F9}</Project>
+      <Name>ZERO_CHECK</Name>
+      <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </ProjectReference>
+    <ProjectReference Include="C:\dev\log4cpp\log4cpp\tests\testCategory.vcxproj">
+      <Project>{FE447A31-FA3F-3261-BEA5-02B72BB40A80}</Project>
+      <Name>testCategory</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\dev\log4cpp\log4cpp\tests\testConfig.vcxproj">
+      <Project>{094D0EE6-BA55-3833-A9F8-82D70FAF65BE}</Project>
+      <Name>testConfig</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\dev\log4cpp\log4cpp\tests\testDailyRollingFileAppender.vcxproj">
+      <Project>{ACE6E482-00D4-3235-B4E3-3864D869EDD0}</Project>
+      <Name>testDailyRollingFileAppender</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\dev\log4cpp\log4cpp\tests\testErrorCollision.vcxproj">
+      <Project>{6337DF88-C682-33A0-A289-081BE58C61F0}</Project>
+      <Name>testErrorCollision</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\dev\log4cpp\log4cpp\tests\testFilter.vcxproj">
+      <Project>{B4524873-D3D6-3024-A769-6AB98330F998}</Project>
+      <Name>testFilter</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\dev\log4cpp\log4cpp\tests\testFixedContextCategory.vcxproj">
+      <Project>{EEE0E26C-4D66-3B9F-A664-350672612912}</Project>
+      <Name>testFixedContextCategory</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\dev\log4cpp\log4cpp\tests\testNDC.vcxproj">
+      <Project>{07E66676-0204-347F-8A5B-777EA5B83646}</Project>
+      <Name>testNDC</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\dev\log4cpp\log4cpp\tests\testPattern.vcxproj">
+      <Project>{FF5F7902-D59F-36C5-8D86-55092F6AC109}</Project>
+      <Name>testPattern</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\dev\log4cpp\log4cpp\tests\testPriority.vcxproj">
+      <Project>{3A17C57D-87E2-30DF-91E5-80619ADDB983}</Project>
+      <Name>testPriority</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\dev\log4cpp\log4cpp\tests\testProperties.vcxproj">
+      <Project>{6FC5814A-7264-3D31-8BFE-4F5F3D1EC585}</Project>
+      <Name>testProperties</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\dev\log4cpp\log4cpp\tests\testPropertyConfig.vcxproj">
+      <Project>{613D144F-0ACE-37CC-8ED1-B51F7AA8B872}</Project>
+      <Name>testPropertyConfig</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\dev\log4cpp\log4cpp\tests\testRollingFileAppender.vcxproj">
+      <Project>{42DF3B4D-F166-3A95-BE78-FB7500D7CBA9}</Project>
+      <Name>testRollingFileAppender</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+  <ImportGroup Label="ExtensionTargets">
+  </ImportGroup>
+</Project>

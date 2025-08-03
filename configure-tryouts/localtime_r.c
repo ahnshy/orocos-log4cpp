@@ -1,0 +1,8 @@
+#include <time.h>
+int main()
+{
+   time_t t;
+   struct tm tm;
+   (void)localtime_r(&t, &tm);
+	return 0;
+}

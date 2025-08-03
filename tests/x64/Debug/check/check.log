@@ -1,0 +1,115 @@
+﻿  UpdateCTestConfiguration  from :C:/dev/log4cpp/log4cpp/tests/DartConfiguration.tcl
+  UpdateCTestConfiguration  from :C:/dev/log4cpp/log4cpp/tests/DartConfiguration.tcl
+  Test project C:/dev/log4cpp/log4cpp/tests
+  Constructing a list of tests
+  Done constructing a list of tests
+  Updating test list for fixtures
+  Added 0 tests to meet fixture requirements
+  Checking test dependency graph...
+  Checking test dependency graph end
+  test 1
+        Start  1: testCategory
+  
+  1: Test command: NOT_AVAILABLE
+  1: Working Directory: C:/dev/log4cpp/log4cpp/tests
+  Test not available without configuration.  (Missing "-C <config>"?)
+   1/12 Test  #1: testCategory .....................***Not Run   0.00 sec
+  test 2
+        Start  2: testFixedContextCategory
+  Test not available without configuration.  (Missing "-C <config>"?)
+  
+  2: Test command: NOT_AVAILABLE
+  2: Working Directory: C:/dev/log4cpp/log4cpp/tests
+   2/12 Test  #2: testFixedContextCategory .........***Not Run   0.00 sec
+  test 3
+  Test not available without configuration.  (Missing "-C <config>"?)
+        Start  3: testNDC
+  
+  3: Test command: NOT_AVAILABLE
+  3: Working Directory: C:/dev/log4cpp/log4cpp/tests
+   3/12 Test  #3: testNDC ..........................***Not Run   0.00 sec
+  test 4
+        Start  4: testPattern
+  Test not available without configuration.  (Missing "-C <config>"?)
+  
+  4: Test command: NOT_AVAILABLE
+  4: Working Directory: C:/dev/log4cpp/log4cpp/tests
+   4/12 Test  #4: testPattern ......................***Not Run   0.00 sec
+  test 5
+        Start  5: testErrorCollision
+  Test not available without configuration.  (Missing "-C <config>"?)
+  
+  5: Test command: NOT_AVAILABLE
+  5: Working Directory: C:/dev/log4cpp/log4cpp/tests
+   5/12 Test  #5: testErrorCollision ...............***Not Run   0.00 sec
+  test 6
+        Start  6: testPriority
+  
+  6: Test command: NOT_AVAILABLE
+  6: Working Directory: C:/dev/log4cpp/log4cpp/tests
+  Test not available without configuration.  (Missing "-C <config>"?)
+   6/12 Test  #6: testPriority .....................***Not Run   0.00 sec
+  test 7
+        Start  7: testFilter
+  
+  7: Test command: NOT_AVAILABLE
+  7: Working Directory: C:/dev/log4cpp/log4cpp/tests
+  Test not available without configuration.  (Missing "-C <config>"?)
+   7/12 Test  #7: testFilter .......................***Not Run   0.00 sec
+  test 8
+        Start  8: testProperties
+  
+  8: Test command: NOT_AVAILABLE
+  8: Working Directory: C:/dev/log4cpp/log4cpp/tests
+  Test not available without configuration.  (Missing "-C <config>"?)
+   8/12 Test  #8: testProperties ...................***Not Run   0.00 sec
+  test 9
+        Start  9: testConfig
+  Test not available without configuration.  (Missing "-C <config>"?)
+  
+  9: Test command: NOT_AVAILABLE
+  9: Working Directory: C:/dev/log4cpp/log4cpp/tests
+   9/12 Test  #9: testConfig .......................***Not Run   0.00 sec
+  test 10
+        Start 10: testPropertyConfig
+  
+  10: Test command: NOT_AVAILABLE
+  10: Working Directory: C:/dev/log4cpp/log4cpp/tests
+  Test not available without configuration.  (Missing "-C <config>"?)
+  10/12 Test #10: testPropertyConfig ...............***Not Run   0.00 sec
+  test 11
+        Start 11: testRollingFileAppender
+  Test not available without configuration.  (Missing "-C <config>"?)
+  
+  11: Test command: NOT_AVAILABLE
+  11: Working Directory: C:/dev/log4cpp/log4cpp/tests
+  11/12 Test #11: testRollingFileAppender ..........***Not Run   0.00 sec
+  test 12
+        Start 12: testDailyRollingFileAppender
+  Test not available without configuration.  (Missing "-C <config>"?)
+  
+  12: Test command: NOT_AVAILABLE
+  12: Working Directory: C:/dev/log4cpp/log4cpp/tests
+  12/12 Test #12: testDailyRollingFileAppender .....***Not Run   0.00 sec
+  
+  0% tests passed, 12 tests failed out of 12
+  
+  Total Test time (real) =   0.01 sec
+  
+  The following tests FAILED:
+  	  1 - testCategory (Not Run)
+  	  2 - testFixedContextCategory (Not Run)
+  	  3 - testNDC (Not Run)
+  	  4 - testPattern (Not Run)
+  	  5 - testErrorCollision (Not Run)
+  	  6 - testPriority (Not Run)
+  	  7 - testFilter (Not Run)
+  	  8 - testProperties (Not Run)
+  	  9 - testConfig (Not Run)
+  	 10 - testPropertyConfig (Not Run)
+  	 11 - testRollingFileAppender (Not Run)
+  	 12 - testDailyRollingFileAppender (Not Run)
+  Errors while running CTest
+  Output from these tests are in: C:/dev/log4cpp/log4cpp/tests/Testing/Temporary/LastTest.log
+  Use "--rerun-failed --output-on-failure" to re-run the failed cases verbosely.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets(241,5): error MSB8066: 'C:\dev\log4cpp\log4cpp\CMakeFiles\916902f31534107092ed957ed03ec8a7\check.rule;C:\dev\log4cpp\log4cpp\tests\CMakeLists.txt'에 대한 사용자 지정 빌드가 종료되었습니다(코드 8).

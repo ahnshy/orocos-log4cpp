@@ -1,0 +1,6 @@
+#include <stdint.h>
+int main()
+{
+   volatile int64_t t;
+	return 0;
+}

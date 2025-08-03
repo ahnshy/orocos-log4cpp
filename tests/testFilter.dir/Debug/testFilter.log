@@ -1,0 +1,7 @@
+﻿  Building Custom Rule C:/dev/log4cpp/log4cpp/tests/CMakeLists.txt
+  testFilter.cpp
+C:\dev\log4cpp\log4cpp\include\log4cpp/config-win32.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+LINK : warning LNK4044: '/pthread' 옵션을 인식할 수 없습니다. 무시됩니다.
+     C:/dev/log4cpp/log4cpp/tests/Debug/testFilter.lib 라이브러리 및 C:/dev/log4cpp/log4cpp/tests/Debug/testFilter.exp 개체를 생성하고 있습니다.
+testFilter.obj : error LNK2001: 확인할 수 없는 외부 기호 "protected: static class log4cpp::TimeStamp log4cpp::TimeStamp::_startStamp" (?_startStamp@TimeStamp@log4cpp@@1V12@A)
+C:\dev\log4cpp\log4cpp\tests\Debug\testFilter.exe : fatal error LNK1120: 1개의 확인할 수 없는 외부 참조입니다.

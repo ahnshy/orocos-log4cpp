@@ -1,0 +1,11 @@
+# CMake generation dependency list for this directory.
+C:/Program Files/CMake/share/cmake-3.31/Modules/CTest.cmake
+C:/Program Files/CMake/share/cmake-3.31/Modules/CTestTargets.cmake
+C:/Program Files/CMake/share/cmake-3.31/Modules/CTestUseLaunchers.cmake
+C:/Program Files/CMake/share/cmake-3.31/Modules/DartConfiguration.tcl.in
+C:/dev/log4cpp/log4cpp/tests/CMakeLists.txt
+C:/dev/log4cpp/log4cpp/tests/log4cpp.init
+C:/dev/log4cpp/log4cpp/tests/log4cpp.properties
+C:/dev/log4cpp/log4cpp/tests/testConfig.log4cpp.dailyroll.properties
+C:/dev/log4cpp/log4cpp/tests/testConfig.log4cpp.properties
+C:/dev/log4cpp/log4cpp/tests/testProperties.properties

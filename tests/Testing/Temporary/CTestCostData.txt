@@ -1,0 +1,25 @@
+testCategory 0 0
+testFixedContextCategory 0 0
+testNDC 0 0
+testPattern 0 0
+testErrorCollision 0 0
+testPriority 0 0
+testFilter 0 0
+testProperties 0 0
+testConfig 0 0
+testPropertyConfig 0 0
+testRollingFileAppender 0 0
+testDailyRollingFileAppender 0 0
+---
+testCategory
+testFixedContextCategory
+testNDC
+testPattern
+testErrorCollision
+testPriority
+testFilter
+testProperties
+testConfig
+testPropertyConfig
+testRollingFileAppender
+testDailyRollingFileAppender

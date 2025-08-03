@@ -1,0 +1,7 @@
+#include <sys/timeb.h>
+int main()
+{
+   struct timeb t;
+   (void)ftime(&t);
+	return 0;
+}

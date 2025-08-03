@@ -1,0 +1,11 @@
+prefix=C:/Program Files (x86)/LOG4CPP
+exec_prefix=${prefix}
+libdir=${prefix}/lib
+includedir=${prefix}/include/orocos
+
+Name: log4cpp
+Description: C++ library for flexible logging, modeled after Log4j
+Version: 2.9.0
+Libs: -L${libdir} -lorocos-log4cpp
+Cflags: -I${includedir} 
+Libs.private: 
